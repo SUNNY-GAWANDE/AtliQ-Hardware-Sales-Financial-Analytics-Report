@@ -13,6 +13,7 @@ Financial Analysis: An evaluation of profit & loss (P&L) statement of the compan
 AtliQ Mart achieved significant growth in fiscal year 2021, with net sales increasing by an impressive 304% to reach 598 million and achieved growth of 204%. Amazon generates the highest net sales followed by AtliQ Exclusive and AtliQ e store for fiscal year 2021. For most of the region's marketing target is not achieved. While net sales peaked in 2021, the gross margin percentage (GM%) was highest in 2019 at 41%, reflecting stronger profitability relative to sales volume during that period. This indicates that although absolute sales volumes were lower in 2019, profitability margins were more favorable compared to 2021. There was a slight decline in gross margin percentage (GM%) for fiscal year 2021. 
 
 ## Data Model
+![image alt](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/51236fac98205257922bce2c9b6717121fb3c5a7/data%20model.png)
 
 ## Customer Net Sales Performance Report
 
