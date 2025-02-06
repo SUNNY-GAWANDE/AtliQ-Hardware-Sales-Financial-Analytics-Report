@@ -17,8 +17,8 @@ AtliQ Mart achieved significant growth in fiscal year 2021, with net sales incre
 
 ## Customer Net Sales Performance Report
 
-![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_1_customer_sales_report.png)
-![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_2_customer_sales_report.png)
+![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_1_customer_sales_report.png) ![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_2_customer_sales_report.png)
+
 
 AtliQ hardwares earned a revenue of 599 Million in fiscal year 2021 showing an increase of 305% from prior fiscal year 2020.
 Amazon generated the highest net sales with 82 Million in fiscal year 2021 having 219% increase from previous year 2020. However, the percentage increase of Amazon is lowest when compared to prior year.
