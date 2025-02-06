@@ -43,5 +43,7 @@ AtliQ hardwares launched 16 new products in the year 2021.
 
 ## Monthly Sales Trends:
 
+![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/bb4dffac9b706c3069636d7e40797b54c16d8534/P%26L%20by%20month.png)
+
 Financial year for AtliQ hardwares starts from September and ends in August.
 In fiscal year 2021, Net sales in September was around 45 million and it increased to subsequent months. The net sales were highest in  December with 78.1 million. The sales picked up during this month because of festive seasons during November & December. However, net sales decreased during the next quarter and net sales was lowest in June month with a figure of 41.5 million. 
