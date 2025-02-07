@@ -1,6 +1,6 @@
 # AtliQ-Hardware-Sales-Financial-Analytics-Report
 ## Project Background:
-AtliQ Hardwares is one of the leading computer hardware producers in India and well expanded in other countries too. The company has a significant amount of data on its sales, finance, customer, marketing efforts, product offering that has been previously underutilized. This project thoroughly synthesizes and analyzes the data in order to uncover critical insights that will improve AtliQ’s commercial success.  
+AtliQ Hardwares is one of the leading computer hardware producers in India and well expanded in other countries too. The company has a significant amount of data on its sales, finance, customer, marketing efforts, product offering that has been previously underutilized. This project analyzed AtliQ Hardwares' 2019-2021 sales in order to uncover critical insights that will improve AtliQ’s commercial success.  
 
 ## Insights and recommendations are provided on the following key areas:
 Financial Analysis: Evaluation of profit & loss (P&L) statement of the company for the fiscal year 2019, 2020 & 2021 by evaluating key metrics such as Net Sales, COGS (Cost of Goods Sold), Gross Margin and Gross Margin %  across different regions, market, division and customers.
