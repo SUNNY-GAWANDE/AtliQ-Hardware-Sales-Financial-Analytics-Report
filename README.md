@@ -23,13 +23,15 @@ The dataset provides customer, sales, market, product and target data. The raw d
 ![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/bb4dffac9b706c3069636d7e40797b54c16d8534/P%26L%20by%20month.png)
 
 
-AtliQ Hardwares follows a fiscal year starting in September and ending in 
-August.
+AtliQ Hardwares follows a fiscal year starting in September and ending in August.
+
 In fiscal year 2021, net sales in September were around 45 million and continued to  increase in subsequent months. December recorded the highest net sales at 78.1 million, attributed to the festive season in November and December. However, net sales decreased during the next quarter and lowest sales were observed in June month with 41.5 million. 
+
 Year-on-Year Growth Analysis
 2019: Net sales were 87.5 million, with a gross margin of 41%.
 2020: Net sales increased to 196.7 million, but the gross margin declined to 37.8%.
 2021: Net sales rose to approximately 599 million, while the gross margin further declined to 36.7%.
+
 Growth Comparison
 2021 vs. 2020: Net sales grew by 204.5%. The first two quarters recorded over 150% growth, while the third quarter saw a remarkable 1981% increase. The final two quarters continued strong growth.
 2020 vs. 2019: Net sales increased by 124.8%. The first two quarters saw over 150% growth, but March recorded a -67% decline, followed by under 50% growth for the next two months. The final quarter rebounded with over 140% growth. 
@@ -39,9 +41,13 @@ Growth Comparison
 ![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_1_customer_sales_report.png) ![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_2_customer_sales_report.png)
 
 AtliQ hardwares earned a revenue of approximetly 599 million in fiscal year 2021 showing an increase of 305% from prior fiscal year 2020.
+
 Amazon recorded the highest net sales, generating 82 million in fiscal year 2021, reflecting a 219% increase from the previous year. However, this was the lowest percentage increase compared to other customers.
+
 AtliQ Exclusive ranked second, with 61.1 million in net sales, representing a 346% increase from fiscal year 2020. AtliQ e-store ranked third, generating 53 million in net sales, marking a 224% increase from 2020.
+
 Nova experienced the highest percentage increase in net sales, surging 2665% in 2021 compared to 2020.
+
 The bottom three customers in terms of revenue were Nova, Electiclsbea Stores, and All-Out, each generating less than 1 million in sales.
 
 
