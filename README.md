@@ -15,17 +15,6 @@ AtliQ Mart achieved significant growth in fiscal year 2021, with net sales incre
 ## Data Model
 ![image alt](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/51236fac98205257922bce2c9b6717121fb3c5a7/data%20model.png)
 
-## Customer Net Sales Performance Report
-
-![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_1_customer_sales_report.png) ![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_2_customer_sales_report.png)
-
-AtliQ hardwares earned a revenue of approximetly 599 million in fiscal year 2021 showing an increase of 305% from prior fiscal year 2020.
-Amazon recorded the highest net sales, generating 82 million in fiscal year 2021, reflecting a 219% increase from the previous year. However, this was the lowest percentage increase compared to other customers.
-AtliQ Exclusive ranked second, with 61.1 million in net sales, representing a 346% increase from fiscal year 2020. AtliQ e-store ranked third, generating 53 million in net sales, marking a 224% increase from 2020.
-Nova experienced the highest percentage increase in net sales, surging 2665% in 2021 compared to 2020.
-The bottom three customers in terms of revenue were Nova, Electiclsbea Stores, and All-Out, each generating less than 1 million in sales.
-
-
 ## Monthly Sales Trends:
 
 ![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/bb4dffac9b706c3069636d7e40797b54c16d8534/P%26L%20by%20month.png)
@@ -42,7 +31,20 @@ Growth Comparison
 2021 vs. 2020: Net sales grew by 204.5%. The first two quarters recorded over 150% growth, while the third quarter saw a remarkable 1981% increase. The final two quarters continued strong growth.
 2020 vs. 2019: Net sales increased by 124.8%. The first two quarters saw over 150% growth, but March recorded a -67% decline, followed by under 50% growth for the next two months. The final quarter rebounded with over 140% growth. 
 
+## Customer Net Sales Performance Report
+
+![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_1_customer_sales_report.png) ![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/0d18759afda324fa0408c6b3eadf39e30220208e/page_2_customer_sales_report.png)
+
+AtliQ hardwares earned a revenue of approximetly 599 million in fiscal year 2021 showing an increase of 305% from prior fiscal year 2020.
+Amazon recorded the highest net sales, generating 82 million in fiscal year 2021, reflecting a 219% increase from the previous year. However, this was the lowest percentage increase compared to other customers.
+AtliQ Exclusive ranked second, with 61.1 million in net sales, representing a 346% increase from fiscal year 2020. AtliQ e-store ranked third, generating 53 million in net sales, marking a 224% increase from 2020.
+Nova experienced the highest percentage increase in net sales, surging 2665% in 2021 compared to 2020.
+The bottom three customers in terms of revenue were Nova, Electiclsbea Stores, and All-Out, each generating less than 1 million in sales.
+
+
 ## Marketing Performance Report
+
+![image](https://github.com/SUNNY-GAWANDE/AtliQ-Hardware-Sales-Financial-Analytics-Report/blob/6341daa337fcf2e53363a8dd351c7713bc43a94e/marketing%20report.png)
 
 In the fiscal year 2021, AtliQ Hardwares achieved total net sales of $598.9 million. However, despite this substantial revenue, the company fell short of its sales target by $54.9 million, marking an overall 9.2% deviation below the target. This shortfall indicates potential inefficiencies in market penetration, competitive challenges, or misalignment between forecasted and actual demand.
 A deep dive into the data reveals that while some regions exceeded expectations, a significant portion of the company’s markets underperformed, dragging overall performance below target levels. The gap suggests a need for enhanced marketing strategies, better sales forecasting, and improved regional adaptability to market conditions.
